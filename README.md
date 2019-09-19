@@ -2,7 +2,6 @@
 Sample CRUD operation performing application using MEAN stack
 
 ## Steps to setup the application
-
-- clone the repo
-- ``` npm install express chalk mongoose nodemon --save ```
-- run <code> npm start </code>
+1. clone the repo
+2. ``` npm install express chalk mongoose nodemon --save ```
+3. run <code> npm start </code>
